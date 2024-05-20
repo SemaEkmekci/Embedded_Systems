@@ -5,7 +5,7 @@ int servoPin = 13;
 
 void setup() {
   myServo.attach(servoPin);
-  myServo.write                  (0);
+  myServo.write(0);
 }
 
 void loop() {
