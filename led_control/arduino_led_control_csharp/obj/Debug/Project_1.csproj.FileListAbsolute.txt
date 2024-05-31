@@ -1,0 +1,10 @@
+D:\C#\led_control\arduino_led_control_csharp\bin\Debug\Project_1.exe.config
+D:\C#\led_control\arduino_led_control_csharp\bin\Debug\Project_1.exe
+D:\C#\led_control\arduino_led_control_csharp\bin\Debug\Project_1.pdb
+D:\C#\led_control\arduino_led_control_csharp\obj\Debug\Project_1.csproj.AssemblyReference.cache
+D:\C#\led_control\arduino_led_control_csharp\obj\Debug\Project_1.Form1.resources
+D:\C#\led_control\arduino_led_control_csharp\obj\Debug\Project_1.Properties.Resources.resources
+D:\C#\led_control\arduino_led_control_csharp\obj\Debug\Project_1.csproj.GenerateResource.cache
+D:\C#\led_control\arduino_led_control_csharp\obj\Debug\Project_1.csproj.CoreCompileInputs.cache
+D:\C#\led_control\arduino_led_control_csharp\obj\Debug\Project_1.exe
+D:\C#\led_control\arduino_led_control_csharp\obj\Debug\Project_1.pdb
